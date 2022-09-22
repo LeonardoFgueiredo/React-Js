@@ -1,17 +1,16 @@
 # React com Http
 
-Projeto em React com exemplo de requisições HTTP com Fecth API.
+|💻 Conteúdos | 
+| ------------- | 
+| Requisições HTTP / Ajax  | 
+| Códigos de STATUS  | 
+| REST  | 
+| Métodos HTTP | 
+| Ciclo de vida de um componente | 
+| GET / POST/ DELETE | 
+| FETCH (https://reqres.in - API / users) | 
+| Hooks - State Hook / Effect Hook | 
+| Rotas - React Router Dom  | 
 
-## Instalar dependencias
-
-```sh
-npm install
-```
-
-## Executar Aplicação
-
-```sh
-npm start
-```
-
-Então abra [http://localhost:3000/](http://localhost:3000/) para ver a Aplicação.
+<div align='center'>
+</div>
